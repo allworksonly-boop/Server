@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+PyJWT
+python-multipart
+firebase-admin
